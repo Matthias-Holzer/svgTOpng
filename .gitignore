@@ -1,4 +1,5 @@
 *.svg
 *.png
 .idea
-reset.py
+png128x128
+png512x512
